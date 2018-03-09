@@ -1,0 +1,21 @@
+{
+    "name": "hostlink/html",
+    "autoload": {
+        "files": [
+            "function.php"
+        ],"psr-4": {
+            "HTML\\": "class\/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raymond Chong",
+            "role": "Analyst programmer",
+            "email": "raymond@hostlink.com.hk",
+            "homepage": "https://raymond.hostlink.com.hk"
+        }
+    ],
+    "version": "1.0.7",
+    "type": "library",
+    "license": "proprietary"
+}
