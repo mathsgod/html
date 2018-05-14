@@ -4,7 +4,7 @@
         "files": [
             "function.php"
         ],"psr-4": {
-            "HTML\\": "class\/"
+            "HTML\\": "src\/"
         }
     },
     "authors": [
@@ -15,7 +15,7 @@
             "homepage": "https://raymond.hostlink.com.hk"
         }
     ],
-    "version": "1.0.7",
+    "version": "1.0.8",
     "type": "library",
     "license": "proprietary"
 }
