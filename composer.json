@@ -1,5 +1,5 @@
 {
-    "name": "hostlink/html",
+    "name": "mathsgod/html",
     "autoload": {
         "files": [
             "function.php"
